@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SQLiteApp_Java</string>
+    <string name="tambah_data">Tambah Data</string>
 </resources>
